@@ -45,12 +45,12 @@
 	z-index: 110;
 	width: 45px;
 	height: 45px;
-	background: url(black-skin-2.png) black;
+	/*background: url(black-skin-2.png) black;*/   /* removes the slider control */
 	-webkit-background-clip: padding-box;
 	-moz-background-clip: padding-box;
 	background-clip: padding-box;
 	background-position: -88px -26px;
-	border: solid 3px rgb(255, 255, 255);
+	/*border: solid 3px rgb(255, 255, 255);*/      /* removes the slider control */
 	border-color: rgba(255, 255, 255, 0.4);
 	top: 50%;
 	left: 30px;
@@ -66,7 +66,7 @@
 
 .ms-skin-black-2 .ms-nav-next:hover,
 .ms-skin-black-2 .ms-nav-prev:hover{
-	background-color: #3d3d3d;
+	/*background-color: #3d3d3d;*/
 }
 
 .ms-skin-black-2 .ms-nav-next {
@@ -94,7 +94,7 @@
 	-webkit-background-clip: padding-box;
 	-moz-background-clip: padding-box;
 	-ms-background-clip: padding-box;
-	border: solid 3px white;
+	/*border: solid 3px white;*/
 	border-color: rgba(0, 0, 0, 0.44);
 	margin: 4px;
 	background-position: -34px -117px;
