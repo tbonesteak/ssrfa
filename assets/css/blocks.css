@@ -222,6 +222,24 @@
   background-position: center center;
 }
 
+.breadcrumbs-v3.img-v4 {
+  background: url(../img/breadcrumbs/img4.jpg) no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
+.breadcrumbs-v3.img-v5 {
+  background: url(../img/breadcrumbs/img5.jpg) no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
+.breadcrumbs-v3.img-v6 {
+  background: url(../img/breadcrumbs/img6.jpg) no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
 .breadcrumbs-v3:after {
   top: 0;
   left: 0;

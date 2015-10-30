@@ -37,25 +37,25 @@
 
 
 /* controls */
-
-.ms-skin-black-2 .ms-nav-next,
+/* removes the slider control from the home page. -me */
+/*.ms-skin-black-2 .ms-nav-next,
 .ms-skin-black-2 .ms-nav-prev {
 	position: absolute;
 	cursor: pointer;
 	z-index: 110;
 	width: 45px;
 	height: 45px;
-	/*background: url(black-skin-2.png) black;*/   /* removes the slider control */
+	background: url(black-skin-2.png) black;   
 	-webkit-background-clip: padding-box;
 	-moz-background-clip: padding-box;
 	background-clip: padding-box;
 	background-position: -88px -26px;
-	/*border: solid 3px rgb(255, 255, 255);*/      /* removes the slider control */
+	border: solid 3px rgb(255, 255, 255);
 	border-color: rgba(255, 255, 255, 0.4);
 	top: 50%;
 	left: 30px;
 	margin-top: -22px;
-}
+}*/
 
 .ms-skin-black-2.round-skin .ms-nav-next,
 .ms-skin-black-2.round-skin .ms-nav-prev,
